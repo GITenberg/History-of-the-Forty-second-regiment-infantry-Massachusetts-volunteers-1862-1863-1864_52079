@@ -2,12 +2,17 @@ _repo: History-of-the-Forty-second-regiment-infantry-Massachusetts-volunteers-18
 _version: 0.1.0
 alternative_title: History of the 42nd regiment infantry, Massachusetts volunteers,
   1862, 1863, 1864
+covers:
+- cover_type: archival
+  image_path: 52079-h/images/cover.jpg
 creator:
   author:
     agent_name: Bosson, Charles P. (Charles Palfray)
     gutenberg_agent_id: '46662'
     url: http://www.gutenberg.org/2009/agents/46662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52079#History-of-the-Forty-second-regiment-infantry-Massachusetts-volunteers-1862-1863-1864
 gutenberg_issued: '2016-05-16'
 gutenberg_type: Text
 identifiers:
